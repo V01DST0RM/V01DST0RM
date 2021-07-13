@@ -1,5 +1,5 @@
 <p align="center"> 
-  Hacking is Good!
+  **Hacking is Good! Ethically ofcourse..**
   
 </p>
 
@@ -12,6 +12,6 @@
   Spotify Playing 🎧
 </p>
 <p align="center"> 
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="StuntStorm Spotify Playing" width="350" />]
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="StuntStorm Spotify Playing" width="350" />
 
 </p>
